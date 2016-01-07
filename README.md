@@ -1,2 +1,4 @@
 # test-repo
-This is a test repository for practice purpose
+This is a test repository for practice purpose.
+
+Update 1.
